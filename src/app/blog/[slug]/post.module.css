@@ -1,0 +1,31 @@
+.markdown h3 {
+  @apply font-bold text-2xl mt-2;
+}
+
+.markdown h6 {
+  @apply font-light italic text-sm mb-2;
+}
+
+.markdown p {
+  @apply text-justify pb-2 leading-relaxed;
+}
+
+.markdown a {
+  @apply hover:underline font-bold;
+}
+
+.markdown ul {
+  @apply ml-6 mb-2 gap-2 list-disc list-outside;
+}
+
+.markdown hr {
+  @apply my-2 h-0.5 border-none bg-zinc-300;
+}
+
+.markdown blockquote {
+  @apply ml-4 mb-4 p-2 border-l-4;
+}
+
+.markdown img {
+  @apply w-full
+}
