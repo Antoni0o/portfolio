@@ -10,7 +10,7 @@ author:
 
 Olá pra você que está lendo esse artigo! Espero que esteja bem.
 
-Depois de muito tempo sem escrever, voltei! _(Esse blog já tá fazendo um ano exatamente hoje!!!)_
+Depois de muito tempo sem escrever, voltei!
 
 Nessa oportunidade, vou passar um breve relatório de algumas coisas que aprendi com minha leitura de hábitos atômicos:
 
