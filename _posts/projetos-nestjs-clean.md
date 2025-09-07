@@ -1,7 +1,7 @@
 ---
 title: "Como desenvolver um projeto NestJS seguindo padrões 'Clean'"
 excerpt: "Estou desenvolvendo um projeto NestJS e vou te falar como fiz pra deixá-lo mais 'Clean'"
-coverImage: "/assets/como-desenvolvi-este-blog/cover.png"
+coverImage: "/assets/projetos-nest-clean/cover.png"
 date: "07 de setembro de 2025 às 19:00"
 author:
   name: "Antonio"
